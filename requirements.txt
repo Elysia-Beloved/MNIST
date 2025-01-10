@@ -1,0 +1,3 @@
+torch==2.0.1  # PyTorch，用于定义模型和优化器
+torchvision==0.15.2  # PyTorch中的图像处理工具，包含MNIST数据集
+pandas==2.0.3  # 数据分析工具，用于保存实验结果
